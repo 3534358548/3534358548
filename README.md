@@ -3,7 +3,7 @@
 - 🐧 
 - 👨‍💻 经历：<a  target="_blank">关于我</a>
 - 🏡 作品：<a href="https://codecompiler.top/" target="_blank">多语言在线编译器</a>|<a  target="_blank">求星星 ✨</a>
-- 🌱 干货：<a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank">公众号『 多语言在线编译器 』</a>
+- 🌱 干货：<a target="_blank">公众号『 多语言在线编译器 』</a>
 - 💬 微信：<a href="https://tiebapic.baidu.com/forum/w%3D580%3B/sign=19a08839e6cc7cd9fa2d34d1093a203f/5fdf8db1cb134954bc2c7bb0134e9258d1094a30.jpg?tbpicau=2022-04-05-05_cf8b232fa0812119b2578f9b269331d6" target="_blank">duanhaosong</a>
 - 🤔 问题：<a href="https://www.zhihu.com/people/yupi-31-97" target="_blank"></a>
 - 👭 我的抖音：<a target="_blank" >帮你学编程、做项目的圈子，可向我提问</a>
